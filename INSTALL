@@ -2,8 +2,4 @@ You will need to have xbindkeys installed to make precision aim work, if you don
 
 **Precision Aim:**
 
-sudo apt install xbindkeys xvkbd xdotool xbindkeys-config
-
-xbindkeys-config
-
 
